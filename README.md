@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Omardriouch29@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFoy_X-NJg/XgMVQaXsJ0YiMaIVMVZg1Q/edit?utm_content=DAFoy_X-NJg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFoy_X-NJg/XgMVQaXsJ0YiMaIVMVZg1Q/edit?utm_content=DAFoy_X-NJg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFoy_X-NJg/XgMVQaXsJ0YiMaIVMVZg1Q/edit?utm_content=DAFoy_X-NJg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFoy_X-NJg/qqWQmhzW3kWM__NHMA1J2Q/view?utm_content=DAFoy_X-NJg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
