@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Custom Printf func project**
 
-- 🤝 I’m looking for help with **Outsystem**
-
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **Omardriouch29@gmail.com**
