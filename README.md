@@ -11,9 +11,6 @@
 
 - 🌱 I’m currently learning **Alx_Africa Program**
 
-- 👯 I’m looking to collaborate on **Custom Printf func project**
-
-- 💬 Ask me about **Android**
 
 - 📫 How to reach me **Omardriouch29@gmail.com**
 
