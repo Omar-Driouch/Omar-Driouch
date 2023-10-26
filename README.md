@@ -14,7 +14,11 @@
 
 - 📫 How to reach me **Omardriouch29@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFoy_X-NJg/XgMVQaXsJ0YiMaIVMVZg1Q/edit?utm_content=DAFoy_X-NJg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFoy_X-NJg/qqWQmhzW3kWM__NHMA1J2Q/view?utm_content=DAFoy_X-NJg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63, 69, 81, 0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" src="https://www.canva.com/design/DAFwZRtDlWY/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
+</div>
+<a href="https://www.canva.com/design/DAFwZRtDlWY/view?utm_content=DAFwZRtDlWY&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Omar driouch Cv French</a> by omar driouch
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
