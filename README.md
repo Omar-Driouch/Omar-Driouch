@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **Omardriouch29@gmail.com**
 
-[![Omar Driouch Cv French](https://www.canva.com/design/DAFwZRtDlWY/view?embed.png)](https://www.canva.com/design/DAFwZRtDlWY/view?utm_content=DAFwZRtDlWY&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
 
-Check out my Canva design: [Omar Driouch Cv French](https://www.canva.com/design/DAFwZRtDlWY/view?utm_content=DAFwZRtDlWY&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
+<h1 align="center">Check out my Resume <a href"https://cvnmwznttsueqif2xvty6a.on.drv.tw/webCV"</a></h1>
+
 
 
 <h3 align="left">Connect with me:</h3>
