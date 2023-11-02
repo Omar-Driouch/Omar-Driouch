@@ -1,12 +1,8 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-driouch&" alt="omar-driouch" /></p>
 
-
-
-
-
 <h1 align="center">Hello 👋, I'm Omar Driouch</h1>
 <h3 align="center">Full-stack Software Engineer from Morocco</h3>
- 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-driouch&label=Profile%20views&color=0e75b6&style=flat" alt="omar-driouch" /> </p>
 
