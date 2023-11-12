@@ -13,7 +13,9 @@
 - 📫 How to reach me **Omardriouch29@gmail.com**
 
 
-<h4 style="color: blue;">My Resume <a href="https://cvnmwznttsueqif2xvty6a.on.drv.tw/webCV">Link</a></h4>
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
