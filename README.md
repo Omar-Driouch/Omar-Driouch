@@ -73,9 +73,11 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/omarpilot365">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=omarpilot365&count=5&unique=false" alt="Spotify recently played"  />
+<br clear="both">
+
+<div align="right">
+  <a href="https://open.spotify.com/user/314sjnqsgffb5cmxyx32bzj25zcm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314sjnqsgffb5cmxyx32bzj25zcm&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
