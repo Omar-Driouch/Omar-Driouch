@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018 (and learning from every one)<br>📚 Currently exploring AI, Data Analytics, and Machine Learning<br>🎯 Goal: Empower individuals and organizations to work smarter—not harder—through AI and digital solutions<br>🎲 Fun fact: I automate tasks even when I don’t have to… just for fun!</p>
+<h3 align="left">✨ Creating bugs since 2018 (and learning from every one)<br>📚 Currently exploring AI, Data Analytics, and Machine Learning<br>🎯 Goal: Empower individuals and organizations to work smarter—not harder—through AI and digital solutions</h3>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Omar-Driouch.https://github.com/Omar-Driouch&"  />
+</div>
 
 ###
 
@@ -14,20 +20,22 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="61" alt="csharp logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="61" alt="python logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="61" alt="typescript logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="61" alt="javascript logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="61" alt="react logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="61" alt="html5 logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="61" alt="css3 logo"  />
 </div>
 
 ###
@@ -36,7 +44,7 @@
 
 ###
 
-<p align="left">I'm passionate about leveraging technology to simplify complex problems and drive real impact. Since 2018, I’ve been on a journey through the digital world—exploring AI, automation, and data-driven innovation. My mission is to help individuals and organizations embrace digital transformation, making their work not only easier but smarter.<br><br>Whether it’s optimizing workflows, introducing intelligent tools, or uncovering insights from data—I thrive on turning challenges into streamlined, future-ready solutions.<br><br>🌍 Based in: Morocco<br>📫 How to reach me: Omardriouch29@gmail.com</p>
+<h4 align="left">I'm passionate about leveraging technology to simplify complex problems and drive real impact. Since 2018, I’ve been on a journey through the digital world—exploring AI, automation, and data-driven innovation. My mission is to help individuals and organizations embrace digital transformation, making their work not only easier but smarter.<br><br>Whether it’s optimizing workflows, introducing intelligent tools, or uncovering insights from data—I thrive on turning challenges into streamlined, future-ready solutions.<br><br>🌍 Based in: Morocco<br>📫 How to reach me: Omardriouch29@gmail.com</h4>
 
 ###
 
@@ -53,10 +61,14 @@
 
 ###
 
-<p align="left">Fun fact: I automate tasks even when I don’t have to… just for fun!</p>
+<h3 align="left">Fun fact: I automate tasks even when I don’t have to… just for fun!</h3>
 
 ###
 
-<img src="https://raw.githubusercontent.com/https://github.com/Omar-Driouch/https://github.com/Omar-Driouch/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/Omar-Driouch/https://github.com/Omar-Driouch/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/Omar-Driouch/https://github.com/Omar-Driouch/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/https://github.com/Omar-Driouch/https://github.com/Omar-Driouch/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
